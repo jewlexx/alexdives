@@ -1,0 +1,17 @@
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(61, 61, 61);
+}
+
+video {
+  border-radius: 5px;
+  max-height: 95vh;
+  max-width: 95vw;
+}
